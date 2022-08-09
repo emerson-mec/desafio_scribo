@@ -7,6 +7,8 @@
 
 ## Como testá-lo
 - Digite um número inteiro positivo.
-- Obtenha o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+ - Caso o caracter seja válido o programa entrará na função que retornará os valores totais.
+- Caso o caracter não cumpra as regras, uma mensagem de ajuda será exibida.
+
 
 Candidato: Emerson Oliveira.
